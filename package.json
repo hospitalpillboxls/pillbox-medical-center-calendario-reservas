@@ -4,10 +4,10 @@
   "private": true,
   "description": "Landing de Pillbox Medical Center con citas y gestión de confirmación/cancelación desde Discord.",
   "main": "server.js",
-  "scripts": {
+ "scripts": {
     "start": "node server.js",
     "dev": "node server.js"
-  },
+},
   "engines": {
     "node": ">=18"
   },
