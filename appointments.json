@@ -1,0 +1,30 @@
+[
+  {
+    "id": "PB-0001",
+    "name": "gala",
+    "phone": "5264285551",
+    "specialty": "Medicina General",
+    "date": "2026-08-17",
+    "time": "17:00",
+    "reason": "rev",
+    "status": "confirmed",
+    "createdAt": "2026-08-15T17:19:22.469Z",
+    "processedBy": "jenn.mas95",
+    "processedAt": "2026-08-15T17:19:28.470Z",
+    "discordMessageId": "1538235668592074774"
+  },
+  {
+    "id": "PB-0002",
+    "name": "RAVEN",
+    "phone": "48958525654",
+    "specialty": "Medicina General",
+    "date": "2026-08-17",
+    "time": "17:30",
+    "reason": "REV",
+    "status": "confirmed",
+    "createdAt": "2026-08-15T17:38:12.595Z",
+    "processedBy": "jenn.mas95",
+    "processedAt": "2026-08-15T17:38:16.460Z",
+    "discordMessageId": "1538240408113385483"
+  }
+]
